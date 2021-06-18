@@ -1,0 +1,20 @@
+{
+  "name": "My Portfolio",
+  "short_name": "MyPortfolio",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#2c2a2a",
+  "description": "My Porfolio",
+  "icons": [
+    {
+      "src": "images/230.png",
+      "sizes": "230x230",
+      "type": "image/png"
+    },
+    {
+      "src": "images/150.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    }
+  ]
+}
